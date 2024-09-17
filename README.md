@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">- 👩‍💻 Sou Desenvolvedor Java na Meva Developers, atuando com Desenvolvimento Back-End Java desde 2022.<br>- 🎓 Estou no 7º semestre do curso de Sistemas de Informação no Senac.<br>- ❤ Apaixonado por soluções tecnológicas que simplificam a vida.</p>
+<p align="left">- 👩‍💻 Sou Desenvolvedor Java na OSF Digital, atuando com Desenvolvimento Back-End Java desde 2022.<br>- 🎓 Estou no 8º semestre do curso de Sistemas de Informação no Senac.<br>- ❤ Apaixonado por soluções tecnológicas que simplificam a vida.</p>
 
 ###
 
